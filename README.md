@@ -1,5 +1,5 @@
 # Hello! I am Manoel Olímpio
- ## **learning**
+ ## **Learning**
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![Figma Badge](https://img.shields.io/badge/Figma-E91E63?style=for-the-badge&logo=figma&logoColor=white) 
