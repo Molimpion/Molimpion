@@ -14,13 +14,13 @@ Recife, Pernambuco
 
 <h3> Here are my main skills</h3>
 
-![image](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=60c3fc)
-![image](https://img.shields.io/badge/mysql-1d1626?style=for-the-badge&logo=mysql&logoColor=60c3fc)
-![image](https://img.shields.io/badge/javascript-1d1626?style=for-the-badge&logo=javascript&logoColor=60c3fc)
-![image](https://img.shields.io/badge/reactjs-1d1626?style=for-the-badge&logo=react&logoColor=60c3fc)
-![image](https://img.shields.io/badge/html-1d1626?style=for-the-badge&logo=html5&logoColor=60c3fc)
-![image](https://img.shields.io/badge/css-1d1626?style=for-the-badge&logo=css3&logoColor=60c3fc)
-![image](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
+![Python](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-1d1626?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![JavaScript](https://img.shields.io/badge/JavaScript-1d1626?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1d1626?style=for-the-badge&logo=React&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-1d1626?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1d1626?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-1d1626?style=for-the-badge&logo=Oracle&logoColor=F80000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Figma](https://img.shields.io/badge/Figma-1d1626?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-1d1626?style=for-the-badge&logo=git&logoColor=F05032)
