@@ -23,7 +23,9 @@ Recife, Pernambuco
 ![image](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
 
 <h3> And my Github Stats</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molimpion&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/Molimpion/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIL2A&exclude_repo=programming_introduction,algorithms_data_structures_exercises&hide=c%2B%2B&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------------------------------
