@@ -7,6 +7,6 @@ Recife, Pernambuco
 
 ### About Me:
 
-I'm 23 years old and originally from Pernambuco, Brazil. I'm currently pursuing a degree in Systems Analysis and Development at SENAC PE through the Embarque Digital program. I'm passionate about technology and constantly expanding my knowledge and skills (both soft skills and hard skills) through the CDD 4.0 extension course. I'm looking for opportunities that allow me to apply and learn new knowledge, grow professionally, and collaborate with creative and dynamic teams.
+  I'm 23 years old and originally from Pernambuco, Brazil. I'm currently pursuing a degree in Systems Analysis and Development at SENAC PE through the Embarque Digital program. I'm passionate about technology and constantly expanding my knowledge and skills (both soft skills and hard skills) through the CDD 4.0 extension course. I'm looking for opportunities that allow me to apply and learn new knowledge, grow professionally, and collaborate with creative and dynamic teams.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
