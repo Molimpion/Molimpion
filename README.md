@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+You!+I'm+Olimpio)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F0EFF&width=435&lines=Hello+You!+I'm+Olimpio)](https://git.io/typing-svg)
 
 **`FullStack Developer`**
 
