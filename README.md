@@ -22,6 +22,8 @@ Recife, Pernambuco
 ![image](https://img.shields.io/badge/css-1d1626?style=for-the-badge&logo=css3&logoColor=60c3fc)
 ![image](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
 ![image](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![image](https://img.shields.io/badge/Figma-1d1626?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
 
 
 <h3> And my Github Stats</h3>
