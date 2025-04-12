@@ -24,6 +24,10 @@ Recife, Pernambuco
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Git](https://img.shields.io/badge/Git-1d1626?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-1d1626?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-1d1626?style=for-the-badge&logo=Canva&logoColor=00C4CC)
+![Notion](https://img.shields.io/badge/Notion-1d1626?style=for-the-badge&logo=Notion&logoColor=000000)
+![Trello](https://img.shields.io/badge/Trello-1d1626?style=for-the-badge&logo=Trello&logoColor=0079BF)
+![Node.js](https://img.shields.io/badge/Node.js-1d1626?style=for-the-badge&logo=Node.js&logoColor=8CC84B)
 
 
 
