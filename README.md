@@ -1,47 +1,8 @@
-# Olá! Eu sou o Manoel Olímpio
-
-[![Meu Portfólio](https://img.shields.io/website?label=Meu%20Portfólio&style=for-the-badge&url=https://miguelamaral.vercel.app)](https://miguelamaral.vercel.app)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molimpion&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/Molimpion/github-readme-stats)
----
-
-## Tecnologias que possuo experiência:
-
-<div align="center">
-  <h3>Linguagens</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,python" />
-  </a>
-  <br />
-
-  <h3>Frameworks</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs" />
-  </a>
-  <br />
-
-  <h3>Bancos de Dados</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <br />
-
-  <h3>Outras Tecnologias</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-  <br />
-</div>
-
----
-
-## Currículo
+# Hello, You! I'm Manoel Olímpio
 
 **Manoel Olímpio De Melo Neto**  
 Recife, Pernambuco  
 📱 (81) 99981-3039  
-📧 olimpiommelo@gmail.com
-🌐 [LinkedIn](https://www.linkedin.com/in/manoelo/) • [GitHub](https://github.com/Molimpion).
 
 ### Apresentação Pessoal
 
