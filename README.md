@@ -35,8 +35,7 @@ Recife, Pernambuco
 
 <div align="left">
   <a href="https://github.com/Molimpion">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Molimpion&theme=tokyonight&bg_color=1F2232&border_color=1F2232&show_icons=true&icon_color=00FFBF&title_color=7DCFFF&text_color=00FFBF&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molimpion&layout=compact&langs_count=16&theme=tokyonight&bg_color=1F2232&border_color=1F2232&show_icons=true&icon_color=00FFBF&title_color=7DCFFF&text_color=00FFBF&locale=pt-br" alt="Top Languages"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Molimpion&theme=tokyonight&bg_color=1F2232&border_color=FFFFFF&show_icons=true&icon_color=00FFBF&title_color=7DCFFF&text_color=00FFBF&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molimpion&layout=compact&langs_count=16&theme=tokyonight&bg_color=1F2232&border_color=FFFFFF&show_icons=true&icon_color=00FFBF&title_color=7DCFFF&text_color=00FFBF&locale=pt-br" alt="Top Languages"/>
   </a>
 </div>
-
