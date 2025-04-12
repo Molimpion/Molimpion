@@ -1,12 +1,12 @@
 # Hello, You! I'm Manoel Olímpio
 
-**`Desenvolvedora FullStack`**
+**`FullStack Developer`**
 
 **Manoel Olímpio De Melo Neto**  
-Recife, Pernambuco  
+Recife, Pernambuco 
 📱 (81) 99981-3039  
 
-### Apresentação Pessoal
+### About Me:
 
 Sobre
 Sou desenvolvedor backend com experiência na criação e manutenção de sistemas e APIs, com ênfase em soluções escaláveis e robustas. Minha trajetória inclui alguns projetos, onde posso destacar a Agenda Virtual NRF Retail 2025, que foi o meu primeiro projeto publicado com usuários reais.
