@@ -39,9 +39,9 @@
 
 **Manoel Olímpio De Melo Neto**  
 Recife, Pernambuco  
-📱 (81) 99637-9353  
-📧 miguel.amaral.sales@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/miguelamaral254/) • [GitHub](https://github.com/miguelamaral254) • [Portfólio](https://miguelamaral.vercel.app)
+📱 (81) 99981-3039  
+📧 olimpiommelo@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/manoelo/) • [GitHub](https://github.com/Molimpion).
 
 ### Apresentação Pessoal
 
