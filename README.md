@@ -2,8 +2,7 @@
 
 [![Meu Portfólio](https://img.shields.io/website?label=Meu%20Portfólio&style=for-the-badge&url=https://miguelamaral.vercel.app)](https://miguelamaral.vercel.app)
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelamaral254&show_icons=true&theme=dracula&count_private=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molimpion&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/Molimpion/github-readme-stats)
 ---
 
 ## Tecnologias que possuo experiência:
