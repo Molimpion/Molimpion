@@ -33,4 +33,9 @@ Recife, Pernambuco
 
 <h3> And my Github Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molimpion&theme=tokyonight&show_icons=true)
+<div align="left">
+  <a href="https://github.com/ViniciusHubb">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusHubb&theme=tokyonight&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHubb&layout=compact&langs_count=16&theme=tokyonight&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br" alt="Top Languages"/>
+  </a>
+</div>
