@@ -10,25 +10,25 @@
 <div align="center">
   <h3>Linguagens</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,python" />
   </a>
   <br />
 
   <h3>Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,spring,react,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs" />
   </a>
   <br />
 
   <h3>Bancos de Dados</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <br />
 
   <h3>Outras Tecnologias</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,azure,figma,linux,maven,gradle" />
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
   <br />
 </div>
@@ -37,7 +37,7 @@
 
 ## Currículo
 
-**Miguel Augusto Sales do Amaral**  
+**Manoel Olímpio De Melo Neto**  
 Recife, Pernambuco  
 📱 (81) 99637-9353  
 📧 miguel.amaral.sales@gmail.com  
