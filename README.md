@@ -14,5 +14,13 @@ Recife, Pernambuco
 
 <h3> Here are my main skills</h3>
 
+![image](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=60c3fc)
+![image](https://img.shields.io/badge/mysql-1d1626?style=for-the-badge&logo=mysql&logoColor=60c3fc)
+![image](https://img.shields.io/badge/javascript-1d1626?style=for-the-badge&logo=javascript&logoColor=60c3fc)
+![image](https://img.shields.io/badge/reactjs-1d1626?style=for-the-badge&logo=react&logoColor=60c3fc)
+![image](https://img.shields.io/badge/html-1d1626?style=for-the-badge&logo=html5&logoColor=60c3fc)
+![image](https://img.shields.io/badge/css-1d1626?style=for-the-badge&logo=css3&logoColor=60c3fc)
+![image](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
+
 ------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
