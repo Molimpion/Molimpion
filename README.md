@@ -32,5 +32,10 @@ Recife, Pernambuco
 
 
 <h3> And my Github Stats</h3>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<div align="left">
+  <a href="https://github.com/Molimpion">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Molimpion&theme=tokyonight&bg_color=1a1b27&border_color=30A3DC&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molimpion&layout=compact&langs_count=16&theme=tokyonight&bg_color=1a1b27&border_color=30A3DC&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br" alt="Top Languages"/>
+  </a>
+</div>
