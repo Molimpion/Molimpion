@@ -33,9 +33,11 @@ Recife, Pernambuco
 
 <h3> And my Github Stats</h3>
 
-<div align="left">
-  <a href="https://github.com/Molimpion">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Molimpion&theme=tokyonight&bg_color=1a1b27&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/> 
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molimpion&layout=compact&langs_count=16&theme=tokyonight&bg_color=1a1b27&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br" alt="Top Languages"/>
-  </a>
+<div style="display: flex;">
+  <div style="border: 2px solid #30A3DC; border-radius: 10px; overflow: hidden; margin-right: 16px;">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Molimpion&theme=tokyonight&bg_color=1a1b27&hide_border=true&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br&hide=stars,prs,issues&show=prs_merged" alt="GitHub Stats"/>
+  </div>
+  <div style="border: 2px solid #30A3DC; border-radius: 10px; overflow: hidden;">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molimpion&layout=compact&langs_count=16&theme=tokyonight&bg_color=1a1b27&hide_border=true&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br" alt="Top Languages"/>
+  </div>
 </div>
