@@ -19,7 +19,7 @@ Recife, Pernambuco
 ![CSS3](https://img.shields.io/badge/CSS3-1d1626?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
-![MySQL](https://img.shields.io/badge/MySQL-1d1626?style=for-the-badge&logo=MySQL&logoColor=7952B3)
+![MySQL](https://img.shields.io/badge/MySQL-1d1626?style=for-the-badge&logo=MySQL&logoColor=00C4CC)
 
 <h3>Tools</h3>
 
