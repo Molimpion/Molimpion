@@ -12,23 +12,25 @@ Recife, Pernambuco
   
 --> I am currently doing a residency at SiDi, working on the development of a time tracking system.
 
-<h3> Here are my main skills</h3>
+<h3> Here are my languages</h3>
 
 ![Python](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-1d1626?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1d1626?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1d1626?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-1d1626?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1d1626?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+<h3>Tools</h3>
+
 ![Git](https://img.shields.io/badge/Git-1d1626?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-1d1626?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-1d1626?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 ![Notion](https://img.shields.io/badge/Notion-1d1626?style=for-the-badge&logo=Notion&logoColor=000000)
 ![Trello](https://img.shields.io/badge/Trello-1d1626?style=for-the-badge&logo=Trello&logoColor=0079BF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Node.js](https://img.shields.io/badge/Node.js-1d1626?style=for-the-badge&logo=Node.js&logoColor=8CC84B)
-
+![React](https://img.shields.io/badge/React-1d1626?style=for-the-badge&logo=React&logoColor=61DAFB)
 
 
 <h3> And my Github Stats</h3>
