@@ -21,7 +21,6 @@ Recife, Pernambuco
 ![Java](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
 ![MySQL](https://img.shields.io/badge/MySQL-1d1626?style=for-the-badge&logo=MySQL&logoColor=00C4CC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1d1626?style=for-the-badge&logo=TypeScript&logoColor=00C4CC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1d1626?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 
 
 <h3>Tools</h3>
@@ -34,6 +33,7 @@ Recife, Pernambuco
 ![Canva](https://img.shields.io/badge/Canva-1d1626?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Notion](https://img.shields.io/badge/Notion-1d1626?style=for-the-badge&logo=Notion&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1d1626?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 
 
 <h3> And my Github Stats</h3>
