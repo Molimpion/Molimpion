@@ -32,8 +32,8 @@ Recife, Pernambuco
 ![React](https://img.shields.io/badge/React-1d1626?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Canva](https://img.shields.io/badge/Canva-1d1626?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Notion](https://img.shields.io/badge/Notion-1d1626?style=for-the-badge&logo=Notion&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1d1626?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![Notion](https://img.shields.io/badge/Notion-1d1626?style=for-the-badge&logo=Notion&logoColor=ffffff)
 
 
 <h3> And my Github Stats</h3>
