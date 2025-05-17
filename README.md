@@ -14,7 +14,8 @@ Recife, Pernambuco
 
 <h3> Here are my languages</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-1d1626?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![HTML5](https://img.shields.io/badge/HTML5-D65770?style=for-the-badge&logo=HTML5&logoColor=551522&labelColor=D65770&color=D65770&label=HTML5&logoColor=551522)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-1d1626?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-1d1626?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=3776AB)
