@@ -25,7 +25,7 @@ Recife, Pernambuco
 
 <h3>Tools</h3>
 
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=fff")
+![GitHub](https://img.shields.io/badge/GitHub-1d1626?style=for-the-badge&logo=github&logoColor=fff")
 ![Figma](https://img.shields.io/badge/Figma-1d1626?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-1d1626?style=for-the-badge&logo=git&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/Node.js-1d1626?style=for-the-badge&logo=Node.js&logoColor=8CC84B)
