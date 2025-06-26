@@ -9,7 +9,6 @@ Recife, Pernambuco
 - 🎴 I'm passionate about gastronomy.
 - 👾 Fan of games and geek culture, including manga and manhwa.
   
---> I am currently doing a residency at SiDi, working on the development of a time tracking system.
 
 <h3> Here are my languages</h3>
 
