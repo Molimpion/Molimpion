@@ -25,7 +25,7 @@ Recife, Pernambuco
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,nextjs,react,bootstrap,tailwind,notion,github,eclipse,obsidian,pycharm,vscode,vite,stackoverflow,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,nextjs,react,bootstrap,tailwind,notion,github,eclipse,obsidian,pycharm,vite,stackoverflow,mysql,mongodb" />
   </a>
 </p>
 
