@@ -10,7 +10,7 @@ Recife, Pernambuco
 - 👾 Fan of games and geek culture, including manga and manhwa.
   
 
-<h3 style="text-align:center;">Here are my languages</h3>
+<h3>Here are my languages:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@ Recife, Pernambuco
 </p>
 
 
-<h3 style="text-align:center;">My tools</h3>
+<h3>My tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
