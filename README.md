@@ -40,8 +40,12 @@ Recife, Pernambuco
 </div>
 
 
-![GitHub followers](https://img.shields.io/github/followers/Molimpion?style=social)
+<img src="https://img.shields.io/badge/Style-For_The_Badge-red?style=for-the-badge">
 
-![GitHub repo size](https://img.shields.io/github/directory-file-count/Molimpion?style=social)
+<img src="https://img.shields.io/badge/Style-Flat-green?style=flat">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Molimpion/SEU-REPOSITORIO)
+<img src="https://img.shields.io/badge/Style-Flat_Square-blue?style=flat-square">
+
+<img src="https://img.shields.io/badge/Style-Plastic-yellow?style=plastic">
+
+<img src="https://img.shields.io/badge/Style-Social-lightgrey?style=social&logo=github">
