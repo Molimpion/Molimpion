@@ -9,9 +9,8 @@ Recife, Pernambuco
 - 🎴 I'm passionate about gastronomy.
 - 👾 Fan of games and geek culture, including manga and manhwa.
   
-<p align="center">
-<h3> Here are my languages</h3>
-</p>
+
+<h3 style="text-align:center;">Here are my languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +20,6 @@ Recife, Pernambuco
 
 
 <h3 style="text-align:center;">My tools</h3>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
