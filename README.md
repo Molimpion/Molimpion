@@ -12,13 +12,11 @@ Recife, Pernambuco
 
 <h3> Here are my languages</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-1d1626?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-![JavaScript](https://img.shields.io/badge/JavaScript-1d1626?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1d1626?style=for-the-badge&logo=css3&logoColor=1572B6&v=1)
-![Python](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=60c3fc)
-![MySQL](https://img.shields.io/badge/MySQL-1d1626?style=for-the-badge&logo=MySQL&logoColor=00C4CC)
-![TypeScript](https://img.shields.io/badge/TypeScript-1d1626?style=for-the-badge&logo=TypeScript&logoColor=00C4CC)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,py,java,ts,mysql" />
+  </a>
+</p>
 
 
 <h3>Tools</h3>
