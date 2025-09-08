@@ -38,3 +38,12 @@ Recife, Pernambuco
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molimpion&layout=compact&langs_count=16&theme=tokyonight&bg_color=1a1b27&hide_border=true&show_icons=true&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&locale=pt-br" alt="Top Languages"/>
   </a>
 </div>
+
+#### Feito com
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components Badge"/>
+</p>
