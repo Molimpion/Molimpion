@@ -12,25 +12,31 @@ Recife, Pernambuco
 
 <h3> Here are my languages</h3>
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,py,java,ts,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,py,java,ts" />
+  </a>
+</p>
+
+
+<h3>Databases</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
 
 <h3>Tools</h3>
 
-![Figma](https://img.shields.io/badge/Figma-1d1626?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-1d1626?style=for-the-badge&logo=git&logoColor=F05032)
-![Node.js](https://img.shields.io/badge/Node.js-1d1626?style=for-the-badge&logo=Node.js&logoColor=8CC84B)
-![Trello](https://img.shields.io/badge/Trello-1d1626?style=for-the-badge&logo=Trello&logoColor=0079BF)
-![React](https://img.shields.io/badge/React-1d1626?style=for-the-badge&logo=React&logoColor=61DAFB)
-![Canva](https://img.shields.io/badge/Canva-1d1626?style=for-the-badge&logo=Canva&logoColor=00C4CC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1626?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1d1626?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Notion](https://img.shields.io/badge/Notion-1d1626?style=for-the-badge&logo=Notion&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-1d1626?style=for-the-badge&logo=github&logoColor=fff")
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,nextjs,react,bootstrap,tailwind,notion,github,eclipse,obsidian,pycharm,vscode,vite,stackoverflow" />
+  </a>
+</p>
 
 
 <h3> And my Github Stats</h3>
