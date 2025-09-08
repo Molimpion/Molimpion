@@ -19,9 +19,9 @@ Recife, Pernambuco
   </a>
 </p>
 
-<p align="center">
-<h3>Tools</h3>
-</p>
+
+<h3 style="text-align:center;">My tools</h3>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
