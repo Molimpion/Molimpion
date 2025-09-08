@@ -40,12 +40,6 @@ Recife, Pernambuco
 </div>
 
 
-<img src="https://img.shields.io/badge/Style-For_The_Badge-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Aprendendo-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Style-Flat-green?style=flat">
-
-<img src="https://img.shields.io/badge/Style-Flat_Square-blue?style=flat-square">
-
-<img src="https://img.shields.io/badge/Style-Plastic-yellow?style=plastic">
-
-<img src="https://img.shields.io/badge/Style-Social-lightgrey?style=social&logo=github">
+<img src="https://img.shields.io/badge/Situação-Buscando_Oportunidade-brightgreen?style=for-the-badge">
