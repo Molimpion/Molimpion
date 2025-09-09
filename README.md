@@ -12,7 +12,7 @@ Recife, Pernambuco
 
 <h3>Here are my languages:</h3>
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,py,java,ts" />
   </a>
