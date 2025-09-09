@@ -16,16 +16,14 @@ Recife, Pernambuco
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,py,java,ts" />
   </a>
-</p>
 
 
 <h3>My tools:</h3>
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,nextjs,react,bootstrap,tailwind,notion,github,eclipse,obsidian,pycharm,vite,stackoverflow,mysql,mongodb" />
   </a>
-</p>
 
 
 <h3> And my Github Stats</h3>
