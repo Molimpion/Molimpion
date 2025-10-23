@@ -9,24 +9,24 @@ Recife, Pernambuco
 - 🎴 I'm passionate about gastronomy.
 - 👾 Fan of games and geek culture, including manga and manhwa.
   
-
-Languages
-
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,py,java" />
-</a>
-
-Frameworks and Libraries
+### Languages
 
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,bootstrap,tailwind,nestjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java" />
 </a>
 
-Tools and Platforms
+### Frameworks and Libraries
 
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,nodejs,vite,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nestjs" />
 </a>
+
+### Tools and Platforms
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow" />
+</a>
+
 
 
 <h3> And my Github Stats</h3>
