@@ -10,20 +10,23 @@ Recife, Pernambuco
 - 👾 Fan of games and geek culture, including manga and manhwa.
   
 
-<h3>Here are my languages:</h3>
+Languages
 
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,py,java" />
+</a>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,py,java,ts" />
-  </a>
+Frameworks and Libraries
 
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,bootstrap,tailwind,nestjs" />
+</a>
 
-<h3>My tools:</h3>
+Tools and Platforms
 
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,react,bootstrap,tailwind,github,eclipse,pycharm,vite,stackoverflow,mysql,mongodb,postgresql" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,nodejs,vite,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow" />
+</a>
 
 
 <h3> And my Github Stats</h3>
