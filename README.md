@@ -24,7 +24,7 @@ Recife, Pernambuco
 ### Tools and Platforms
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow" />
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,next.js,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow" />
 </a>
 
 
