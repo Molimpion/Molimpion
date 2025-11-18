@@ -27,7 +27,7 @@ Recife, Pernambuco
 <img src="https://skillicons.dev/icons?i=git,github,nodejs,next,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow" />
 </a>
 
-## Leasing
+## Learning
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=aws,spring" />
