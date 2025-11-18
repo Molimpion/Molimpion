@@ -19,7 +19,6 @@ Recife, Pernambuco
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nestjs" />
-</a>
 
 ### Tools and Platforms
 
