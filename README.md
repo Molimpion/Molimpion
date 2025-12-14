@@ -30,5 +30,5 @@ Recife, Pernambuco
 ## Learning
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,spring,java,c#" />
+<img src="https://skillicons.dev/icons?i=aws,spring,java,cs" />
 </a>
