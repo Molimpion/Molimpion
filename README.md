@@ -12,7 +12,7 @@ Recife, Pernambuco
 ### Languages
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
 </a>
 
 ### Frameworks and Libraries
@@ -30,5 +30,5 @@ Recife, Pernambuco
 ## Learning
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,spring" />
+<img src="https://skillicons.dev/icons?i=aws,spring,java, c#" />
 </a>
