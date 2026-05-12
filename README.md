@@ -15,12 +15,12 @@ Recife, Pernambuco
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nestjs,flask" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nestjs,next,flask" />
 </a>
 
 ### Tools and Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,next,mysql,postgresql,mongodb,eclipse,pycharm,stackoverflow,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,postgresql,mongodb,aws,docker,stackoverflow" />
 </a>
 
 ## Learning
