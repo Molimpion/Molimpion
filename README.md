@@ -20,7 +20,7 @@ Recife, Pernambuco
 
 ### Tools and Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgresql,DBeaver,mongodb,aws,docker,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgresql,dbeaver,mongodb,aws,docker,stackoverflow" />
 </a>
 
 ## Learning
