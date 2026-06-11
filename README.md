@@ -1,29 +1,32 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=7F0EFF&width=435&lines=Hello%2C+You!;I'm+Olimpio.)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-**Manoel Olímpio De Melo Neto**  
-Recife, Pernambuco
+<h1>Manoel Olímpio De Melo Neto</h1>
+<p>Desenvolvedor Fullstack · Recife, Pernambuco · Brasil</p>
 
-### About Me:
-* 📌 I'm a 24-year-old from Pernambuco, Brazil, currently pursuing a degree in Systems Analysis and Development at SENAC PE via the Embarque Digital program. I am seeking an opportunity where I can apply my skills, acquire new knowledge, grow as a professional, and contribute to a creative and dynamic team.
-* 🎴 I'm passionate about gastronomy.
-* 👾 Fan of games and geek culture, including manga and manhwa.
+---
 
-### Languages
+Desenvolvedor **Fullstack** com forte foco em **backend**, dedicado à construção de APIs estruturadas, seguras e eficientes. Atuo no frontend com **React** e **Next.js** e no backend com **TypeScript (Node.js/Express/Nest.js)**, **Python** e **Java** sempre guiado pela resolução prática de problemas e pelo desenvolvimento de soluções escaláveis. Priorizo a qualidade e a manutenibilidade do software, aplicando princípios de **Clean Code** e arquiteturas limpas na integração com bancos de dados relacionais e NoSQL. Utilizo **LLMs como ferramenta de desenvolvimento** — para pesquisa, revisão de código e documentação — mantendo o raciocínio técnico e a responsabilidade sobre as decisões de arquitetura.
+
+---
+
+### Linguagens
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
 </a>
 
-### Frameworks and Libraries
+### Frameworks e Bibliotecas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,next,express,nestjs,flask" />
 </a>
 
-### Tools and Platforms
+### Ferramentas e Plataformas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgresql,mongodb,aws,docker,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgresql,mongodb,aws,docker" />
 </a>
 
-## Learning
+### Aprendendo
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,java" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
