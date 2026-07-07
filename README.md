@@ -18,7 +18,7 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 [![Frameworks](https://skillicons.dev/icons?i=bootstrap,tailwind,react,next,express,nestjs,flask)](https://skillicons.dev)
 
 ### Ferramentas e Plataformas
-[![Ferramentas](https://skillicons.dev/icons?i=linux,git,github,mysql,postgresql,mongodb,aws,docker)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=linux,git,github,mysql,postgresql,mongodb,redis,aws,docker)](https://skillicons.dev)
 
 ### Aprendendo
 [![Aprendendo](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
