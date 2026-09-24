@@ -6,9 +6,9 @@ Desenvolvedor Fullstack · Recife, Pernambuco · Brasil
 
 ---
 
-Desenvolvedor **Fullstack** com forte foco em **backend**, dedicado à construção de APIs estruturadas, seguras e eficientes. Atuo no frontend com **React** e **Next.js** e no backend com **TypeScript**, **Python** e **Java**, sempre guiado pela resolução prática de problemas. 
+Desenvolvedor **Fullstack** dedicado à construção de APIs estruturadas, seguras e eficientes, sempre guiado pela resolução prática de problemas.
 
-Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**, princípios **SOLID** e padrões como **MVC** e **Arquitetura Hexagonal**. Projeto **arquiteturas escaláveis** e adoto **TDD** para garantir confiabilidade e refatoração segura. Tenho experiência no design de integrações com bancos relacionais, uso de ORMs modernos e orquestração de infraestrutura com **Docker**. Utilizo LLMs como ferramentas de desenvolvimento para pesquisa, revisão de código e documentação, mantendo o raciocínio crítico e a total responsabilidade sobre as decisões de arquitetura.
+Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**, princípios **SOLID** e padrões como **MVC** e **Arquitetura Hexagonal**. Estruturo APIs em camadas, com testes unitários e de integração e pipelines de **CI** para garantir confiabilidade e refatoração segura. Tenho experiência no design de integrações com bancos relacionais (**PostgreSQL**, **MySQL**), uso de ORMs modernos (**Prisma**, **TypeORM**), cache e filas com **Redis** e **BullMQ**, observabilidade com **Prometheus**, **Grafana** e **Sentry** e containerização com **Docker** e **Docker Compose**. Utilizo LLMs como ferramentas de desenvolvimento para pesquisa, revisão de código e documentação, mantendo o raciocínio crítico e a total responsabilidade sobre as decisões de arquitetura.
 
 ---
 
