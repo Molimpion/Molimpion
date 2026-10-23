@@ -12,11 +12,14 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 ---
 
-### Linguagens, Frameworks e Testes
-[![Stack](https://skillicons.dev/icons?i=ts,js,py,java,react,next,nodejs,express,spring,jest,vitest)](https://skillicons.dev)
+### Linguagens
+[![Linguagens](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
 
-### Dados, Infra e DevOps
-[![Infra](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,docker,aws,githubactions,prometheus,grafana,linux,git,github)](https://skillicons.dev)
+### Frameworks e Bibliotecas
+[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,express,spring,prisma,jest,vitest)](https://skillicons.dev)
+
+### Ferramentas e Plataformas
+[![Ferramentas](https://skillicons.dev/icons?i=linux,git,github,githubactions,postgres,mysql,mongodb,redis,docker,aws,prometheus,grafana)](https://skillicons.dev)
 
 ### Aprendendo
 [![Aprendendo](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
