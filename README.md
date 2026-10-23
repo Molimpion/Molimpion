@@ -12,31 +12,13 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 ---
 
-### Linguagens
-[![Linguagens](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
+### Linguagens, Frameworks e Testes
+[![Stack](https://skillicons.dev/icons?i=ts,js,py,java,react,next,nodejs,express,spring,jest,vitest)](https://skillicons.dev)
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
-
-### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)
-
-### Banco de Dados e Filas
-[![Banco de Dados](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma)](https://skillicons.dev)
-
-### Infra, DevOps e Observabilidade
-[![Infra](https://skillicons.dev/icons?i=docker,aws,githubactions,prometheus,grafana,linux,git,github)](https://skillicons.dev)
-
-### Testes
-[![Testes](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
+### Dados, Infra e DevOps
+[![Infra](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,docker,aws,githubactions,prometheus,grafana,linux,git,github)](https://skillicons.dev)
 
 ### Aprendendo
 [![Aprendendo](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-
-### Além disso
-**IA aplicada:** Claude API, OpenAI, Gemini, Groq · RAG e embeddings · agentes multi-step · OCR e extração de documentos  
-**Dev assistido por IA:** Claude Code, GitHub Copilot, Codex  
-**Automação:** RPA (UiPath, WorkFusion), Google Apps Script  
-**Segurança:** OWASP Top 10, RBAC, MFA, LGPD
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
