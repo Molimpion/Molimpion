@@ -18,8 +18,11 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 ### Frameworks e Bibliotecas
 [![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,express,spring,prisma,jest,vitest)](https://skillicons.dev)
 
+### Banco de Dados
+[![Banco de Dados](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
+
 ### Ferramentas e Plataformas
-[![Ferramentas](https://skillicons.dev/icons?i=linux,git,github,githubactions,postgres,mysql,mongodb,redis,docker,aws,prometheus,grafana)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,aws,prometheus,grafana)](https://skillicons.dev)
 
 ### Aprendendo
 [![Aprendendo](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
